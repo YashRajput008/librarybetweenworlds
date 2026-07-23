@@ -1,8 +1,8 @@
 # Intro
 - A top-down narrative RPG(like classic Zelda or Undertale) about preserving forgotten stories/myths
-<ul style="color: red; font-weight: bold;">
-  <li>THIS GAME IS A WORK IN PROGRESS</li>
-</ul>
+
+> [!WARNING] THIS GAME IS A WORK IN PROGRESS
+
 ## The Premise
 - At the edge of reality exists **The Library Between Worlds**(Name will probably change later), a place that contains every story humanity has ever told
 - Myths/Stories can only survive as long as people remember them, and recently, books have begun to turn blank.
@@ -13,23 +13,23 @@
 - The librarians ask you to find the root cause and save the stories
 
 # Game Structure
-1. The Library
-2. Stage 1: The Greek Wing
+## The Library
+## Stage 1: The Greek Wing
   - The Labyrinth: the Minotaur is no longer remembered
   - You have the option to play the role of Theseus and slay the Minotaur
   - Or you can change the myth, sparing the Minotaur's life, and changing the story
-3. Stage 2: The Egyptian Wing
+## Stage 2: The Egyptian Wing
   - The Egyptian Underworld: The myth of Osiris has lost its meaning
   - You can help Iris collect the pieces of Osiris and restore the myth to its original state
   - You can help Horus defeat Set
   - You can bring Iris to Set and usher in a new age of the gods
-4. Stage 3: The Norse Wing
+## Stage 3: The Norse Wing
   - Ragnarok: Differing views
   - Loki: Believes myths should change - changing myths based on the social climate of the modern day is important
   - Odin: Believes myths shouldn't change - respecting the traditions of old is how we grow
   - Introduces the Main Conflict
 
-> Main Conflict: The person deleting myths is not destroying them; they are trying to stop people from fighting over them(conflicts based off differing ideals)
+> [!NOTE] Main Conflict: The person deleting myths is not destroying them; they are trying to stop people from fighting over them(conflicts based off differing ideals)
 
 5. The Main Conflict:
   - The villain is a former librarian who broke their oaths after being disenchanted by the conflict caused by different ideologies promoted by myths
