@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="InvItem" load_steps=3 format=3 uid="uid://crwm3j743s2r8"]
+
+[ext_resource type="Script" uid="uid://dyg7cafb3pxrs" path="res://Inventory/inventory_item.gd" id="1_j85ff"]
+[ext_resource type="Texture2D" uid="uid://c68t4hw57a4l4" path="res://Assets/Tiles/kenney_tiny-dungeon/Tiles/tile_0114.png" id="2_h7o3m"]
+
+[resource]
+script = ExtResource("1_j85ff")
+name = "Potion"
+texture = ExtResource("2_h7o3m")
+metadata/_custom_type_script = "uid://dyg7cafb3pxrs"
