@@ -33,12 +33,14 @@
 > [!NOTE]
 > Main Conflict: The person deleting myths is not destroying them; they are trying to stop people from fighting over them(conflicts based off differing ideals)
 
-5. The Main Conflict:
+## The Main Conflict:
   - The villain is a former librarian who broke their oaths after being disenchanted by the conflict caused by different ideologies promoted by myths
   - The Player has to decide b/w three endings:
-      1. Preserve the myths exactly(siding with the librarians). The library becomes a museum of old stories that can be studied by scholars hundreds of years into the future
-      2. Allow myths to evolve. The Library becomes alive as stories continualy shift and change
+      ### Preserve the myths exactly(siding with the librarians).
+        - The library becomes a museum of old stories that can be studied by scholars hundreds of years into the future
+      ### Allow myths to evolve. The Library becomes alive as stories continualy shift and change
         - The player returns to the library, where a new book has appeared
         - The librarian questions why the book is blank if everything is back to normal
         - The player responds: "Because it hasn't been written yet"
-      4. Erase Everything(siding with the villian). No more myths, no more conflicts
+      ## Erase Everything(siding with the villian).
+        - No more myths, no more conflicts
