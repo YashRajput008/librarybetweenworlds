@@ -1,7 +1,8 @@
 # Intro
 - A top-down narrative RPG(like classic Zelda or Undertale) about preserving forgotten stories/myths
 
-> [!WARNING] THIS GAME IS A WORK IN PROGRESS
+> [!WARNING]
+> THIS GAME IS A WORK IN PROGRESS
 
 ## The Premise
 - At the edge of reality exists **The Library Between Worlds**(Name will probably change later), a place that contains every story humanity has ever told
@@ -29,7 +30,8 @@
   - Odin: Believes myths shouldn't change - respecting the traditions of old is how we grow
   - Introduces the Main Conflict
 
-> [!NOTE] Main Conflict: The person deleting myths is not destroying them; they are trying to stop people from fighting over them(conflicts based off differing ideals)
+> [!NOTE]
+> Main Conflict: The person deleting myths is not destroying them; they are trying to stop people from fighting over them(conflicts based off differing ideals)
 
 5. The Main Conflict:
   - The villain is a former librarian who broke their oaths after being disenchanted by the conflict caused by different ideologies promoted by myths
