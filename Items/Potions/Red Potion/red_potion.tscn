@@ -1,8 +1,8 @@
 [gd_scene load_steps=5 format=3 uid="uid://bgyphuabrk0xa"]
 
 [ext_resource type="Script" uid="uid://dhgddol8htuqg" path="res://Items/Potions/Red Potion/red_potion.gd" id="1_4q3y2"]
-[ext_resource type="Texture2D" path="res://Assets/Tiles/kenney_tiny-dungeon/Tiles/tile_0115.png" id="2_4q3y2"]
 [ext_resource type="Resource" uid="uid://b3oemxytuaigi" path="res://Items/Potions/Red Potion/red_potion.tres" id="2_ishre"]
+[ext_resource type="Texture2D" uid="uid://b3j6wxhqeto2f" path="res://Assets/Items/Potions/tile_0115.png" id="3_wqkla"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_v6mff"]
 size = Vector2(18, 19)
@@ -12,7 +12,7 @@ script = ExtResource("1_4q3y2")
 item = ExtResource("2_ishre")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("2_4q3y2")
+texture = ExtResource("3_wqkla")
 
 [node name="Area2D" type="Area2D" parent="."]
 collision_layer = 2

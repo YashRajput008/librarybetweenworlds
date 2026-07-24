@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://dhp4a4qdyd37d"]
 
 [ext_resource type="Script" uid="uid://big6227r80nap" path="res://Scenes/NPCs/npc.gd" id="1_i5rsy"]
-[ext_resource type="Texture2D" uid="uid://vmymdnulvyye" path="res://Assets/Tiles/kenney_tiny-dungeon/Tiles/tile_0112.png" id="2_tlho6"]
+[ext_resource type="Texture2D" uid="uid://k4wfjpyj1fg8" path="res://Assets/characters/cyclops.png" id="2_i5rsy"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_i5rsy"]
 size = Vector2(16, 16)
@@ -13,7 +13,7 @@ size = Vector2(26, 26)
 script = ExtResource("1_i5rsy")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("2_tlho6")
+texture = ExtResource("2_i5rsy")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_i5rsy")

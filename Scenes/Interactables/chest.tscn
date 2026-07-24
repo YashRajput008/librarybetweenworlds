@@ -1,25 +1,25 @@
 [gd_scene load_steps=9 format=3 uid="uid://caqw12g7q11fc"]
 
 [ext_resource type="Script" uid="uid://chnk27t3xp3t1" path="res://Scenes/Interactables/chest.gd" id="1_sctcq"]
-[ext_resource type="Texture2D" path="res://Assets/Tiles/kenney_tiny-dungeon/Tiles/tile_0089.png" id="2_oebv6"]
-[ext_resource type="Texture2D" path="res://Assets/Tiles/kenney_tiny-dungeon/Tiles/tile_0090.png" id="3_i1ury"]
-[ext_resource type="Texture2D" path="res://Assets/Tiles/kenney_tiny-dungeon/Tiles/tile_0091.png" id="4_iv6fc"]
-[ext_resource type="Texture2D" path="res://Assets/Tiles/kenney_tiny-dungeon/Tiles/tile_0092.png" id="5_roeo1"]
+[ext_resource type="Texture2D" uid="uid://ccfl5wjbtvobp" path="res://Assets/Items/Chest/tile_0089.png" id="2_iritj"]
+[ext_resource type="Texture2D" uid="uid://dw7k4cxs7hine" path="res://Assets/Items/Chest/tile_0090.png" id="3_sdkk4"]
+[ext_resource type="Texture2D" uid="uid://cmjo3ly1atqg4" path="res://Assets/Items/Chest/tile_0091.png" id="4_qo4en"]
+[ext_resource type="Texture2D" uid="uid://cu4mskiwfkgvd" path="res://Assets/Items/Chest/tile_0092.png" id="5_absct"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_6q2gu"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("2_oebv6")
+"texture": ExtResource("2_iritj")
 }, {
 "duration": 1.0,
-"texture": ExtResource("3_i1ury")
+"texture": ExtResource("3_sdkk4")
 }, {
 "duration": 1.0,
-"texture": ExtResource("4_iv6fc")
+"texture": ExtResource("4_qo4en")
 }, {
 "duration": 1.0,
-"texture": ExtResource("5_roeo1")
+"texture": ExtResource("5_absct")
 }],
 "loop": false,
 "name": &"open",
